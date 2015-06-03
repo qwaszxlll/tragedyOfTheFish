@@ -1,0 +1,40 @@
+VARIABLES
+
+
+
+
+PRELOAD
+
+
+CREATE
+
+
+
+
+checkpoint
+
+
+UPDATE
+
+
+
+HELPERS
+createFishies(upperLimit, startY)
+
+
+getIdleMessage()
+
+addToolTip(text, parent, moving)
+
+
+
+
+
+getTextX(parent, offsetX)
+getTextY(parent, offsetY)
+catchFish()
+
+
+
+goFishing()
+movePlayer()
